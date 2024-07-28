@@ -1,0 +1,244 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "VehicleMake": "Toyota",
+      "VehicleModel": "Camry",
+      "VehicleYear": 2016,
+      "VehicleLastServiceDate": "2023-10-15",
+      "VehicleMileage": 12.5
+    },
+    {
+      "id": 2,
+      "VehicleMake": "Honda",
+      "VehicleModel": "Accord",
+      "VehicleYear": 2017,
+      "VehicleLastServiceDate": "2024-01-25",
+      "VehicleMileage": 15.3
+    },
+    {
+      "id": 3,
+      "VehicleMake": "Ford",
+      "VehicleModel": "Focus",
+      "VehicleYear": 2019,
+      "VehicleLastServiceDate": "2023-11-05",
+      "VehicleMileage": 9.8
+    },
+    {
+      "id": 4,
+      "VehicleMake": "Chevrolet",
+      "VehicleModel": "Malibu",
+      "VehicleYear": 2018,
+      "VehicleLastServiceDate": "2023-12-20",
+      "VehicleMileage": 10.2
+    },
+    {
+      "id": 5,
+      "VehicleMake": "Toyota",
+      "VehicleModel": "Corolla",
+      "VehicleYear": 2019,
+      "VehicleLastServiceDate": "2022-08-02",
+      "VehicleMileage": 6.7
+    },
+    {
+      "id": 6,
+      "VehicleMake": "Honda",
+      "VehicleModel": "Civic",
+      "VehicleYear": 2016,
+      "VehicleLastServiceDate": "2021-05-19",
+      "VehicleMileage": 17.5
+    },
+    {
+      "id": 7,
+      "VehicleMake": "Ford",
+      "VehicleModel": "F-150",
+      "VehicleYear": 2020,
+      "VehicleLastServiceDate": "2023-09-30",
+      "VehicleMileage": 13.9
+    },
+    {
+      "id": 8,
+      "VehicleMake": "Chevrolet",
+      "VehicleModel": "Silverado",
+      "VehicleYear": 2017,
+      "VehicleLastServiceDate": "2022-12-10",
+      "VehicleMileage": 14.6
+    },
+    {
+      "id": 9,
+      "VehicleMake": "Toyota",
+      "VehicleModel": "Rav4",
+      "VehicleYear": 2018,
+      "VehicleLastServiceDate": "2024-02-15",
+      "VehicleMileage": 11.3
+    },
+    {
+      "id": 10,
+      "VehicleMake": "Honda",
+      "VehicleModel": "Pilot",
+      "VehicleYear": 2020,
+      "VehicleLastServiceDate": "2023-06-28",
+      "VehicleMileage": 16.8
+    },
+    {
+      "id": 11,
+      "VehicleMake": "Ford",
+      "VehicleModel": "Escape",
+      "VehicleYear": 2019,
+      "VehicleLastServiceDate": "2021-08-20",
+      "VehicleMileage": 7.6
+    },
+    {
+      "id": 12,
+      "VehicleMake": "Chevrolet",
+      "VehicleModel": "Equinox",
+      "VehicleYear": 2017,
+      "VehicleLastServiceDate": "2024-03-02",
+      "VehicleMileage": 9.2
+    },
+    {
+      "id": 13,
+      "VehicleMake": "Toyota",
+      "VehicleModel": "Highlander",
+      "VehicleYear": 2018,
+      "VehicleLastServiceDate": "2023-10-31",
+      "VehicleMileage": 12.0
+    },
+    {
+      "id": 14,
+      "VehicleMake": "Honda",
+      "VehicleModel": "CR-V",
+      "VehicleYear": 2017,
+      "VehicleLastServiceDate": "2022-11-15",
+      "VehicleMileage": 14.9
+    },
+    {
+      "id": 15,
+      "VehicleMake": "Ford",
+      "VehicleModel": "Explorer",
+      "VehicleYear": 2021,
+      "VehicleLastServiceDate": "2023-03-20",
+      "VehicleMileage": 10.5
+    },
+    {
+      "id": 16,
+      "VehicleMake": "Chevrolet",
+      "VehicleModel": "Traverse",
+      "VehicleYear": 2020,
+      "VehicleLastServiceDate": "2021-09-25",
+      "VehicleMileage": 16.1
+    },
+    {
+      "id": 17,
+      "VehicleMake": "Toyota",
+      "VehicleModel": "Sienna",
+      "VehicleYear": 2019,
+      "VehicleLastServiceDate": "2024-01-10",
+      "VehicleMileage": 13.7
+    },
+    {
+      "id": 18,
+      "VehicleMake": "Honda",
+      "VehicleModel": "Odyssey",
+      "VehicleYear": 2018,
+      "VehicleLastServiceDate": "2023-07-05",
+      "VehicleMileage": 10.8
+    },
+    {
+      "id": 19,
+      "VehicleMake": "Ford",
+      "VehicleModel": "Mustang",
+      "VehicleYear": 2017,
+      "VehicleLastServiceDate": "2022-05-30",
+      "VehicleMileage": 7.2
+    },
+    {
+      "id": 20,
+      "VehicleMake": "Chevrolet",
+      "VehicleModel": "Camaro",
+      "VehicleYear": 2019,
+      "VehicleLastServiceDate": "2023-11-28",
+      "VehicleMileage": 11.6
+    },
+    {
+      "id": 21,
+      "VehicleMake": "Toyota",
+      "VehicleModel": "Tundra",
+      "VehicleYear": 2016,
+      "VehicleLastServiceDate": "2024-02-05",
+      "VehicleMileage": 6.3
+    },
+    {
+      "id": 22,
+      "VehicleMake": "Honda",
+      "VehicleModel": "Ridgeline",
+      "VehicleYear": 2020,
+      "VehicleLastServiceDate": "2023-10-15",
+      "VehicleMileage": 14.2
+    },
+    {
+      "id": 23,
+      "VehicleMake": "Ford",
+      "VehicleModel": "Ranger",
+      "VehicleYear": 2019,
+      "VehicleLastServiceDate": "2021-12-20",
+      "VehicleMileage": 9.5
+    },
+    {
+      "id": 24,
+      "VehicleMake": "Chevrolet",
+      "VehicleModel": "Colorado",
+      "VehicleYear": 2018,
+      "VehicleLastServiceDate": "2024-02-25",
+      "VehicleMileage": 15.0
+    },
+    {
+      "id": 25,
+      "VehicleMake": "Toyota",
+      "VehicleModel": "Tacoma",
+      "VehicleYear": 2017,
+      "VehicleLastServiceDate": "2023-09-10",
+      "VehicleMileage": 16.5
+    },
+    {
+      "id": 26,
+      "VehicleMake": "Honda",
+      "VehicleModel": "Insight",
+      "VehicleYear": 2019,
+      "VehicleLastServiceDate": "2022-10-05",
+      "VehicleMileage": 12.3
+    },
+    {
+      "id": 27,
+      "VehicleMake": "Ford",
+      "VehicleModel": "Fusion",
+      "VehicleYear": 2018,
+      "VehicleLastServiceDate": "2023-03-30",
+      "VehicleMileage": 11.1
+    },
+    {
+      "id": 28,
+      "VehicleMake": "Chevrolet",
+      "VehicleModel": "Spark",
+      "VehicleYear": 2016,
+      "VehicleLastServiceDate": "2024-01-15",
+      "VehicleMileage": 8.7
+    },
+    {
+      "id": 29,
+      "VehicleMake": "Toyota",
+      "VehicleModel": "Yaris",
+      "VehicleYear": 2017,
+      "VehicleLastServiceDate": "2022-07-20",
+      "VehicleMileage": 6.8
+    },
+    {
+      "id": 30,
+      "VehicleMake": "Honda",
+      "VehicleModel": "Fit",
+      "VehicleYear": 2018,
+      "VehicleLastServiceDate": "2023-05-05",
+      "VehicleMileage": 7.4
+    }
+  ]
+}
